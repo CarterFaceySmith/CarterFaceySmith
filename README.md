@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarterFaceySmith
 
-- 🌱 I’m currently a first-year Bachelor of Computer Science student, most of the projects hosted on my Github will be mockups used primarily for practicing concepts.
+- 🌱 I’m currently a Bachelor of Computer Science student, most of the projects hosted on my Github will be mockups used primarily for practicing concepts, or projects of personal  interest to me.
 
 - 📫 Feel free to reach out regarding potential coding projects via email at carterfaceysmith@gmail.com
 
