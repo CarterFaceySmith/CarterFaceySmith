@@ -1,5 +1,9 @@
 ## Hi, I’m [Carter](https://carterfaceysmith.tech).<br>
-#### I'm excited by any programming that provides an opportunity for personal growth, complexity and/or novel approaches.
+### I'm excited by scale, complexity and novel approaches.
+
+#### Currently Working On:
+- **HyperFocus**: *A multi-year research project on entering and maintaining the elusive 'flow state'.*
+- **ThousandEyes**: *A combat prediction framework using pose estimation and machine learning.*
 
 #### Currently Learning/Interested In:
 - C
