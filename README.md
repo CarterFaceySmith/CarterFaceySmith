@@ -1,4 +1,5 @@
 ## Hi, I’m [Carter](https://carterfaceysmith.tech).<br>
+#### I'm excited by any programming that provides an opportunity for personal growth, complexity and/or novel approaches.
 
 #### Currently Learning/Interested In:
 - C
