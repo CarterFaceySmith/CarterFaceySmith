@@ -1,5 +1,5 @@
 ## Hi, I’m [Carter](https://carterfaceysmith.tech).<br>
-### I'm excited by scale, complexity, tangibility and novel approaches.
+### I'm excited by scale, complexity, and novel approaches.
 
 #### Currently Working On:
 - **HyperFocus**: *A multi-year research project on entering and maintaining the elusive 'flow state'.*
