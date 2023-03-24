@@ -9,7 +9,6 @@
 - Quantum Computing
 - Neural Cellular Automata
 - Generative ML Models
-- Cyber Security
 - Drone Programming
 - Image Recognition/Pose Estimation
 
