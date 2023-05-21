@@ -1,14 +1,14 @@
 ## Hi, I’m [Carter](https://carterfaceysmith.tech).<br>
-### I'm excited by scale, complexity, and novel approaches.
+### I'm excited by scale, complexity, the bleeding edge, and novel approaches.
 
 #### Currently Working On:
-- **ThousandEyes**: *A combat prediction framework using pose estimation and machine learning.*
-- **Portfolio Site**: *A refactoring of my current [personal/portfolio website](https://carterfaceysmith.tech) using Typescript, Remix, Prisma and Tailwind.*
+- **ThousandEyes**: *Combat Prediction Framework*
+- **BOXRL**: *Reinforcement Learning for Robotic Manipulation*
+- **PLNK**: *Quantum Finance Toolkit*
 
 #### Currently Learning/Interested In:
 - Quantum Computing
 - Neural Cellular Automata
-- Generative ML Models
 - Drone Programming
 - Image Recognition/Pose Estimation
 
