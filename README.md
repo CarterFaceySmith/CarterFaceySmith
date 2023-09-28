@@ -3,7 +3,6 @@
 
 #### Currently Working On:
 - **ThousandEyes**: *Combat Prediction Framework*
-- **[BOXRL](https://gitlab.lrz.de/cps-rl/human-robot-gym)**: *Reinforcement Learning for Robotic Manipulators*
 - **PLNK**: *Quantum Finance Toolkit*
 - **[SecondBrain](https://github.com/CarterFaceySmith/SecondBrain)**: *Compiled Notes on Various Concepts*
 
