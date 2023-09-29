@@ -2,7 +2,7 @@
 ### I'm excited by scale, complexity, the bleeding edge, and novel approaches.
 
 #### Currently Working On:
-- **ThousandEyes**: *Combat Prediction Framework*
+- **ThousandEyes**: *Human Movement Prediction Framework*
 - **PLNK**: *Quantum Finance Toolkit*
 - **[SecondBrain](https://github.com/CarterFaceySmith/SecondBrain)**: *Compiled Notes on Various Concepts*
 
