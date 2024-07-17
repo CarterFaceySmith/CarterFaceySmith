@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hi, I’m <a href='https://carterfaceysmith.tech'>Carter</a>.</h1>
+<h1>Hi, I’m <a href='https://carterfaceysmith.tech'>Librarian</a>.</h1>
 <i>I primarily focus on C++, with a bit of C and Python as needed, although I enjoy dabbling in various languages and code environments.</i><br>
 <h4>Here are some things I'm working on currently:</h4>
 <p><b>PLNK</b>: <i>Automated Finance Toolkit</i></p>
