@@ -6,3 +6,4 @@
 <p><b>Thousand Eyes</b>: <i>Human Movement Prediction Framework</i></p>
 <p><b><a href='https://github.com/CarterFaceySmith/SecondBrain'>Second Brain</a></b>: <i>Compiled Open-source Notes on Various Concepts</i></p>
 </div>
+![humanmade-mark-black-logo](https://github.com/user-attachments/assets/41a78936-7827-4871-b8b9-675b09f42d19)
