@@ -8,14 +8,14 @@
 
 <!-- Responsive images based on color scheme -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/805cb0f6-fc03-4e39-8061-f6e4dfc64a87.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/0a5acd8e-fbcf-4b1c-a9a2-e53b819a52da.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/cd72e7c2-053b-41ea-9dfe-a4ec9fb0abd1" >
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/4b3ba145-de58-483c-be67-89f9186c1cc0" >
   <!-- Fallback image if neither light nor dark mode is matched -->
-  <img src="https://github.com/user-attachments/assets/0a5acd8e-fbcf-4b1c-a9a2-e53b819a52da.png" alt="Humanmade Mark" width="400">
+  <img src="https://github.com/user-attachments/assets/0a5acd8e-fbcf-4b1c-a9a2-e53b819a52da.png" alt="Brainmade Mark" width="400">
 </picture>
+<br><br>
 
 <p><i>Unless otherwise stated, all code produced by me follows the Brainmade Mark standards for AI usage.</i></p><br><br>
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66a4412ff22c59ba756eecd4?variant=dark&roadmaps=react-native%2Ccpp%2Cblockchain" alt="roadmap.sh"/></a>
 </div>
-
