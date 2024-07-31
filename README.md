@@ -11,7 +11,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/cd72e7c2-053b-41ea-9dfe-a4ec9fb0abd1" >
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/4b3ba145-de58-483c-be67-89f9186c1cc0" >
   <!-- Fallback image if neither light nor dark mode is matched -->
-  <img src="https://github.com/user-attachments/assets/0a5acd8e-fbcf-4b1c-a9a2-e53b819a52da.png" alt="Brainmade Mark" width="400">
+  <img src="https://github.com/user-attachments/assets/cd72e7c2-053b-41ea-9dfe-a4ec9fb0abd1" alt="Brainmade Mark" width="400">
 </picture>
 <br><br>
 
