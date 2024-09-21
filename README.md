@@ -1,10 +1,11 @@
 <div align="center">
 <h1>Hi, I’m <a href='https://carterfaceysmith.tech'>Librarian</a>.</h1>
 <i>I primarily focus on C++, with a bit of C and Python as needed, although I enjoy dabbling in various languages and code environments.</i><br>
-<h4>Here are some things I'm working on currently:</h4>
-<p><b>PLNK</b>: <i>Automated Finance Toolkit</i></p>
-<p><b><a href='https://github.com/CarterFaceySmith/alpaca-trading-cpp'>alpaca-trading-cpp</a></b>: <i>C++ Client Library for <a href='https://alpaca.markets'>Alpaca</a></i></p>
-<p><b><a href='https://github.com/CarterFaceySmith/SecondBrain'>Second Brain</a></b>: <i>Compiled Open-source Notes on Various Concepts</i></p><br><br>
+<h4>Here are some things I'm working on in my spare time:</h4>
+<p><b><a href='https://github.com/CarterFaceySmith/PLNK'>PLNK</a></b>: <i>An Automated Finance Toolkit in Python</i></p>
+<p><b><a href='https://github.com/CarterFaceySmith/alpaca-trading-cpp'>alpaca-trading-cpp</a></b>: <i>A C++ Client Library for <a href='https://alpaca.markets'>Alpaca</a></i></p>
+<p><b><a href='https://github.com/CarterFaceySmith/SecondBrain'>Second Brain</a></b>: <i>Compiled Open-source Notes on Various Concepts</i></p>
+<p><b><a href='https://github.com/CarterFaceySmith/CompetitiveProgrammingSolutions'>Competitive Programming</a></b>: <i>Atcoder and Codeforces Competitive Programming Solutions in C++</i></p><br><br>
 
 <!-- Responsive images based on color scheme -->
 <picture>
